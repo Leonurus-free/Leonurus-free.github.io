@@ -2,9 +2,9 @@
 
 Welcome to Leonurus-free's blogs
 
-Github地址：https://github.com/Leonurus-free/Leonurus-free.github.io
-
-项目地址：https://leonurus-free.github.io/
+> [Github地址](https://github.com/Leonurus-free/Leonurus-free.github.io)
+>
+> [项目地址](https://leonurus-free.github.io/)
 
 ---
 
