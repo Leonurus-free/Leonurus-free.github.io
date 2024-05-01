@@ -1,6 +1,4 @@
-# Leonurus-free.github.io
-
-Welcome to Leonurus-free's blogs
+# Welcome to Leonurus-free's blogs
 
 > [Github地址](https://github.com/Leonurus-free/Leonurus-free.github.io)
 >
