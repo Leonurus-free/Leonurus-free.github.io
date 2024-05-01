@@ -1,10 +1,14 @@
-# [Leonurus-free.github.io](https://github.com/Leonurus-free/Leonurus-free.github.io)
+# Leonurus-free.github.io
 
 Welcome to Leonurus-free's blogs
 
+Github地址：https://github.com/Leonurus-free/Leonurus-free.github.io
+
+项目地址：https://leonurus-free.github.io/
+
 ---
 
-:eyes: This project is used to record notes during the learning process！:eyes:
+​This project is used to record notes during the learning process！​​
 
 ## 爬虫
 
