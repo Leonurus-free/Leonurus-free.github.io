@@ -20,3 +20,5 @@
 * 🔥[大模型调优的策略](./LLMs/大模型调优的策略.md)
 * 🔥[RAG](./LLMs/RAG.md)
 * 🔥[大模型的优缺点](./LLMs/大模型的优缺点.md)
+* 🔥[LLM 量化方法区别 —— GPTQ、GGUF、GGML、PTQ、QAT、AWQ、AQLM ](./LLMs/LLM 量化方法区别 —— GPTQ、GGUF、GGML、PTQ、QAT、AWQ、AQLM .md)
+* 
