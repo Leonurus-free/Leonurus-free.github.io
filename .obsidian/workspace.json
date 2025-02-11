@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "5410567a46b7fe75",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f8810e836c7167b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45d0ba622d1991cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "相关命令.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "相关命令"
+            }
+          },
+          {
+            "id": "f4798f5982f09dcd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-09 10.03.59.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-09 10.03.59.excalidraw"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da92b3288c18054f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c36f7506c2b914e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee91e3aabf012d28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "93dfb21ca317e276",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "476c936de1473a14",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f3e4ee4cc6b37c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f4a57c326ace061",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01a5c6729e665e4c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "相关命令.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "相关命令 的反向链接列表"
+            }
+          },
+          {
+            "id": "f6b52a79542c03a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "相关命令.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "相关命令 的出链列表"
+            }
+          },
+          {
+            "id": "36116a3ec2091e6f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "898c8d482efda1a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "相关命令.md"
+              },
+              "icon": "lucide-list",
+              "title": "相关命令 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
+    }
+  },
+  "active": "f4798f5982f09dcd",
+  "lastOpenFiles": [
+    "相关命令",
+    "相关命令.md",
+    "Excalidraw/Drawing 2025-01-09 10.03.59.excalidraw.md",
+    "anaconda/conda基本操作.md",
+    "anaconda/conda基本操作不.md",
+    "anaconda/Untitled.md",
+    "anaconda/使用conda pack进行环境迁移/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5bCP6IifJQ==,size_20,color_FFFFFF,t_70,g_se,x_16.png",
+    "anaconda/使用conda pack进行环境迁移/ee8417842bac4baba4ffc75188964fe7.png",
+    "anaconda/使用conda pack进行环境迁移/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5bCP6IifJQ==,size_20,color_FFFFFF,t_70,g_se,x_16-1717736060788-3.png",
+    "anaconda/使用conda pack进行环境迁移/d95cde9a8d2c498cb451d0439877d023.png",
+    "anaconda/使用conda pack进行环境迁移/a9f6249dfd844536bbf49f7c29f1b84d.png",
+    "anaconda/使用conda pack进行环境迁移/5c4739c396d241ab85fb153158080602.png",
+    "anaconda/使用conda pack进行环境迁移",
+    "anaconda/使用conda pack进行环境迁移.md",
+    "anaconda/将A环境中的特定包添加到现有的 conda B 环境中.md",
+    "anaconda",
+    "Untitled Folder",
+    "LLMs/学习策略.md",
+    "LLMs/Untitled.md",
+    "docker/docker镜像打包.md",
+    "Pycharm/使用conda pack进行环境迁移.md",
+    "LLMs/LLM中的Attention实现及优化/640-1736078158402-15.webp",
+    "LLMs/LLM中的Attention实现及优化/640-1736078158402-15-1736078158403-16",
+    "LLMs/LLM中的Attention实现及优化/640-1736078156442-12.webp",
+    "LLMs/LLM中的Attention实现及优化/640-1736078156442-12-1736078156442-13",
+    "LLMs/LLM中的Attention实现及优化/640-1736078128533-9.webp",
+    "LLMs/LLM中的Attention实现及优化/640-1736078128533-9-1736078128533-10",
+    "LLMs/LLM中的Attention实现及优化/640-1736078117907-6.webp",
+    "LLMs/LLM中的Attention实现及优化/640-1736078117907-6-1736078117907-7",
+    "LLMs/LLM中的Attention实现及优化/640-1736078110843-3-1736078110843-4",
+    "LLMs/LLM中的Attention实现及优化/640-1736078095565-1",
+    "LLMs/LLM中的Attention实现及优化",
+    "LLMs/LLM中的Attention实现及优化.md",
+    "Pycharm/pycharm生成requirements.md",
+    "Pycharm/将A环境中的特定包添加到现有的 conda B 环境中.md",
+    "FastAPI/FastAPI访问docs接口文档显示空白、jscss无法加载.md",
+    "FastAPI/FastAPI文件映射.md",
+    "Git/Git操作.md",
+    "docker/使用docker容器搭建远程开发环境.md",
+    "docker/docker搭建cuda版ubuntu环境.md",
+    "项目/MinerU/MinerU开发教程.md",
+    "docker/使用docker容器搭建开发环境.md",
+    "docker/设置docker以及容器开机自启.md",
+    "考驾照/科目一、科目四知识点总结.md",
+    "未命名.canvas",
+    "Excalidraw/Drawing 2024-12-23 18.27.18.excalidraw.md",
+    "Linux/centos/centos 7安装Anaconda.md"
+  ]
+}
