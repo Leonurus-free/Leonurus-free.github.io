@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "README"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "test 的大纲"
+              "title": "README 的大纲"
             }
           }
         ],
@@ -171,11 +171,17 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "45d0ba622d1991cd",
+  "active": "ee91e3aabf012d28",
   "lastOpenFiles": [
+    "generate_readme.py",
+    "generate_readme.py.tmp.17344.1775008041265",
+    "test.md",
+    "相关命令.md.tmp.1659180.1775006649579",
+    "Git/在二次开发的基础上拉去官方项目合并.md",
+    "Git/02.Git帮助手册.md",
+    "Git/Git操作.md",
     "OS/ubuntu/压缩解压.md",
     "OS/ubuntu/ubuntu高级复制.md",
-    "test.md",
     "相关命令.md",
     "docker/Kasm虚拟化性能测试说明.md",
     "OS/ubuntu/Ubuntu22.04LTS中安装Docker，并支持显卡.md",
@@ -204,12 +210,8 @@
     "anaconda/使用conda pack进行环境迁移/5c4739c396d241ab85fb153158080602.png",
     "anaconda/使用conda pack进行环境迁移",
     "anaconda/使用conda pack进行环境迁移.md",
-    "anaconda/将A环境中的特定包添加到现有的 conda B 环境中.md",
     "anaconda",
     "Untitled Folder",
-    "LLMs/学习策略.md",
-    "LLMs/Untitled.md",
-    "docker/docker镜像打包.md",
     "LLMs/LLM中的Attention实现及优化/640-1736078158402-15.webp",
     "LLMs/LLM中的Attention实现及优化/640-1736078158402-15-1736078158403-16",
     "LLMs/LLM中的Attention实现及优化/640-1736078156442-12.webp",
@@ -217,8 +219,6 @@
     "LLMs/LLM中的Attention实现及优化/640-1736078128533-9.webp",
     "LLMs/LLM中的Attention实现及优化/640-1736078128533-9-1736078128533-10",
     "LLMs/LLM中的Attention实现及优化/640-1736078117907-6.webp",
-    "LLMs/LLM中的Attention实现及优化/640-1736078117907-6-1736078117907-7",
-    "LLMs/LLM中的Attention实现及优化/640-1736078110843-3-1736078110843-4",
     "未命名.canvas"
   ]
 }

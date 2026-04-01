@@ -11,10 +11,11 @@
 
 ## 
 
-* 🔥[Untitled](.//Untitled.md)
 * 🔥[next-ai-draw-offline-deployment](.//next-ai-draw-offline-deployment.md)
 * 🔥[ollama的使用](.//ollama的使用.md)
+* 🔥[README](.//README.md)
 * 🔥[test](.//test.md)
+* 🔥[Untitled](.//Untitled.md)
 * 🔥[书籍](.//书籍.md)
 * 🔥[公众号文章](.//公众号文章.md)
 * 🔥[动态IP](.//动态IP.md)
@@ -25,6 +26,28 @@
 * 🔥[相关命令](.//相关命令.md)
 * 🔥[账号密码](.//账号密码.md)
 * 🔥[静态IP](.//静态IP.md)
+
+## docker
+
+* 🔥[Dockerfile的编写](./docker/Dockerfile的编写.md)
+* 🔥[Docker中的privileged](./docker/Docker中的privileged.md)
+* 🔥[docker容器](./docker/docker容器.md)
+* 🔥[Docker容器与主机之间文件传递](./docker/Docker容器与主机之间文件传递.md)
+* 🔥[docker容器中restart启动区别](./docker/docker容器中restart启动区别.md)
+* 🔥[docker容器中文件夹打包导出](./docker/docker容器中文件夹打包导出.md)
+* 🔥[docker容器之间的通信](./docker/docker容器之间的通信.md)
+* 🔥[docker搭建cuda版ubuntu环境](./docker/docker搭建cuda版ubuntu环境.md)
+* 🔥[docker无法使用nvidia](./docker/docker无法使用nvidia.md)
+* 🔥[docker无法使用runtime](./docker/docker无法使用runtime.md)
+* 🔥[docker配置代理](./docker/docker配置代理.md)
+* 🔥[docker镜像删除](./docker/docker镜像删除.md)
+* 🔥[docker镜像打包](./docker/docker镜像打包.md)
+* 🔥[Kasm虚拟化性能测试说明](./docker/Kasm虚拟化性能测试说明.md)
+* 🔥[nvidia镜像的区别](./docker/nvidia镜像的区别.md)
+* 🔥[win10_docker容器修改端口映射](./docker/win10_docker容器修改端口映射.md)
+* 🔥[使用docker容器搭建开发环境](./docker/使用docker容器搭建开发环境.md)
+* 🔥[使用docker容器搭建远程开发环境](./docker/使用docker容器搭建远程开发环境.md)
+* 🔥[设置docker以及容器开机自启](./docker/设置docker以及容器开机自启.md)
 
 ## ES
 
@@ -53,13 +76,13 @@
 
 * 🔥[DeepSeek最大的贡献是什么？](./LLMs/DeepSeek最大的贡献是什么？.md)
 * 🔥[FP32、FP16、TF32、BF16、混合精度](./LLMs/FP32、FP16、TF32、BF16、混合精度.md)
+* 🔥[huggingface](./LLMs/huggingface.md)
 * 🔥[LLM中的Attention实现及优化](./LLMs/LLM中的Attention实现及优化.md)
 * 🔥[LLM量化方法区别GPTQ、GGUF、GGML、PTQ、QAT、AWQ、AQLM](./LLMs/LLM量化方法区别GPTQ、GGUF、GGML、PTQ、QAT、AWQ、AQLM.md)
 * 🔥[LLM领域的一些热词](./LLMs/LLM领域的一些热词.md)
 * 🔥[MLA](./LLMs/MLA.md)
 * 🔥[RAG](./LLMs/RAG.md)
 * 🔥[VLLM参数说明](./LLMs/VLLM参数说明.md)
-* 🔥[huggingface](./LLMs/huggingface.md)
 * 🔥[为什么RAG一定需要Rerank？](./LLMs/为什么RAG一定需要Rerank？.md)
 * 🔥[使用Safetensors和GGUF区别](./LLMs/使用Safetensors和GGUF区别.md)
 * 🔥[基于Qwen基座模型训练推理模型](./LLMs/基于Qwen基座模型训练推理模型.md)
@@ -74,6 +97,11 @@
 * 🔥[梳理各类LargeLanguageModel关系和实现要点](./LLMs/梳理各类LargeLanguageModel关系和实现要点.md)
 * 🔥[私有部署大模型地址](./LLMs/私有部署大模型地址.md)
 * 🔥[自定义LangChain中的输出解析器（以解析Markdown代码块为例）](./LLMs/自定义LangChain中的输出解析器（以解析Markdown代码块为例）.md)
+
+## nginx
+
+* 🔥[nginx入门](./nginx/nginx入门.md)
+* 🔥[ngnix配置](./nginx/ngnix配置.md)
 
 ## OS
 
@@ -94,8 +122,8 @@
 * 🔥[ubuntu修改文件或目录的拥有者](./OS/ubuntu/ubuntu修改文件或目录的拥有者.md)
 * 🔥[ubuntu分区挂载](./OS/ubuntu/ubuntu分区挂载.md)
 * 🔥[ubuntu安装 Playwright + Chrome + 有头模式 + 远程可视化（noVNC）](./OS/ubuntu/ubuntu安装 Playwright + Chrome + 有头模式 + 远程可视化（noVNC）.md)
-* 🔥[ubuntu安装GoogleChrome浏览器和ChromeDriver](./OS/ubuntu/ubuntu安装GoogleChrome浏览器和ChromeDriver.md)
 * 🔥[ubuntu安装conda](./OS/ubuntu/ubuntu安装conda.md)
+* 🔥[ubuntu安装GoogleChrome浏览器和ChromeDriver](./OS/ubuntu/ubuntu安装GoogleChrome浏览器和ChromeDriver.md)
 * 🔥[ubuntu安装libreoffice](./OS/ubuntu/ubuntu安装libreoffice.md)
 * 🔥[ubuntu安装mysql8.0](./OS/ubuntu/ubuntu安装mysql8.0.md)
 * 🔥[ubuntu安装ngnix](./OS/ubuntu/ubuntu安装ngnix.md)
@@ -137,44 +165,6 @@
 * 🔥[Pycharm常用快捷键](./Pycharm/Pycharm常用快捷键.md)
 * 🔥[pycharm生成requirements](./Pycharm/pycharm生成requirements.md)
 
-## Spiders
-
-* 🔥[反爬虫策略](./Spiders/反爬虫策略.md)
-
-## VibeCoding
-
-* 🔥[Claude code速查表](./VibeCoding/Claude code速查表.md)
-* 🔥[claude code](./VibeCoding/claude code.md)
-* 🔥[claude code速查表-英文版](./VibeCoding/claude code速查表-英文版.md)
-* 🔥[codex](./VibeCoding/codex.md)
-
-## docker
-
-* 🔥[Dockerfile的编写](./docker/Dockerfile的编写.md)
-* 🔥[Docker中的privileged](./docker/Docker中的privileged.md)
-* 🔥[Docker容器与主机之间文件传递](./docker/Docker容器与主机之间文件传递.md)
-* 🔥[Kasm虚拟化性能测试说明](./docker/Kasm虚拟化性能测试说明.md)
-* 🔥[docker容器](./docker/docker容器.md)
-* 🔥[docker容器中restart启动区别](./docker/docker容器中restart启动区别.md)
-* 🔥[docker容器中文件夹打包导出](./docker/docker容器中文件夹打包导出.md)
-* 🔥[docker容器之间的通信](./docker/docker容器之间的通信.md)
-* 🔥[docker搭建cuda版ubuntu环境](./docker/docker搭建cuda版ubuntu环境.md)
-* 🔥[docker无法使用nvidia](./docker/docker无法使用nvidia.md)
-* 🔥[docker无法使用runtime](./docker/docker无法使用runtime.md)
-* 🔥[docker配置代理](./docker/docker配置代理.md)
-* 🔥[docker镜像删除](./docker/docker镜像删除.md)
-* 🔥[docker镜像打包](./docker/docker镜像打包.md)
-* 🔥[nvidia镜像的区别](./docker/nvidia镜像的区别.md)
-* 🔥[win10_docker容器修改端口映射](./docker/win10_docker容器修改端口映射.md)
-* 🔥[使用docker容器搭建开发环境](./docker/使用docker容器搭建开发环境.md)
-* 🔥[使用docker容器搭建远程开发环境](./docker/使用docker容器搭建远程开发环境.md)
-* 🔥[设置docker以及容器开机自启](./docker/设置docker以及容器开机自启.md)
-
-## nginx
-
-* 🔥[nginx入门](./nginx/nginx入门.md)
-* 🔥[ngnix配置](./nginx/ngnix配置.md)
-
 ## python
 
 * 🔥[init__.py执行时机](./python/init__.py执行时机.md)
@@ -192,6 +182,17 @@
 ## python包管理/uv
 
 * 🔥[uv基本用法](./python包管理/uv/uv基本用法.md)
+
+## Spiders
+
+* 🔥[反爬虫策略](./Spiders/反爬虫策略.md)
+
+## VibeCoding
+
+* 🔥[claude code](./VibeCoding/claude code.md)
+* 🔥[claude code速查表-英文版](./VibeCoding/claude code速查表-英文版.md)
+* 🔥[Claude code速查表](./VibeCoding/Claude code速查表.md)
+* 🔥[codex](./VibeCoding/codex.md)
 
 ## 前端
 
@@ -225,12 +226,12 @@
 
 ## 项目
 
+* 🔥[cl项目](./项目/cl项目.md)
 * 🔥[Docker安装Nextcloud+Onlyoffice](./项目/Docker安装Nextcloud+Onlyoffice.md)
 * 🔥[GraphRAG+chainlit实现跨文档智能检索分析](./项目/GraphRAG+chainlit实现跨文档智能检索分析.md)
-* 🔥[Vben5](./项目/Vben5.md)
-* 🔥[cl项目](./项目/cl项目.md)
 * 🔥[nextcloud相关命令](./项目/nextcloud相关命令.md)
 * 🔥[omniparse](./项目/omniparse.md)
+* 🔥[Vben5](./项目/Vben5.md)
 * 🔥[人员简历画像平台原型0122](./项目/人员简历画像平台原型0122.md)
 * 🔥[如何理解一个项目](./项目/如何理解一个项目.md)
 * 🔥[文档翻译](./项目/文档翻译.md)
