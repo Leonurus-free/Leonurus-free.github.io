@@ -1,0 +1,14 @@
+[    2533ms] ReferenceError: require is not defined
+    at <anonymous>:13:12
+    at f (https://code.claude.com/docs/_next/static/chunks/68789-e7d81f669637c445.js?dpl=dpl_CpoxuJgJpYQiYgb5BEukA5QBSU8P:1:27615)
+    at https://code.claude.com/docs/_next/static/chunks/68789-e7d81f669637c445.js?dpl=dpl_CpoxuJgJpYQiYgb5BEukA5QBSU8P:1:28429
+    at o1 (https://code.claude.com/docs/_next/static/chunks/87c73c54-dd8d81ac9604067c.js?dpl=dpl_CpoxuJgJpYQiYgb5BEukA5QBSU8P:1:88955)
+    at uE (https://code.claude.com/docs/_next/static/chunks/87c73c54-dd8d81ac9604067c.js?dpl=dpl_CpoxuJgJpYQiYgb5BEukA5QBSU8P:1:104847)
+    at ux (https://code.claude.com/docs/_next/static/chunks/87c73c54-dd8d81ac9604067c.js?dpl=dpl_CpoxuJgJpYQiYgb5BEukA5QBSU8P:1:104731)
+    at uE (https://code.claude.com/docs/_next/static/chunks/87c73c54-dd8d81ac9604067c.js?dpl=dpl_CpoxuJgJpYQiYgb5BEukA5QBSU8P:1:104827)
+    at ux (https://code.claude.com/docs/_next/static/chunks/87c73c54-dd8d81ac9604067c.js?dpl=dpl_CpoxuJgJpYQiYgb5BEukA5QBSU8P:1:104731)
+    at uE (https://code.claude.com/docs/_next/static/chunks/87c73c54-dd8d81ac9604067c.js?dpl=dpl_CpoxuJgJpYQiYgb5BEukA5QBSU8P:1:104892)
+    at ux (https://code.claude.com/docs/_next/static/chunks/87c73c54-dd8d81ac9604067c.js?dpl=dpl_CpoxuJgJpYQiYgb5BEukA5QBSU8P:1:104731)
+[    2937ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://code.claude.com/docs/zh-CN/desktop-quickstart?_rsc=1tcfe:0
+[    3262ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://code.claude.com/docs/zh-CN/terminal-guide?_rsc=ld4jx:0
+[   23573ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://static.cloudflareinsights.com/beacon.min.js/v67327c56f0bb4ef8b305cae61679db8f1769101564043:0

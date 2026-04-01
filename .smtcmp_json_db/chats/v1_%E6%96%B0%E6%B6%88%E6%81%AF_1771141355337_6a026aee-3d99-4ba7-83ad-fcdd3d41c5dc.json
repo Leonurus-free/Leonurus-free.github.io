@@ -1,0 +1,73 @@
+{
+  "id": "6a026aee-3d99-4ba7-83ad-fcdd3d41c5dc",
+  "title": "新消息",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "@ubuntu高级复制.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "ubuntu高级复制.md",
+                  "mentionable": {
+                    "type": "current-file",
+                    "file": "OS/ubuntu/ubuntu高级复制.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " 你好",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n@ubuntu高级复制.md 你好\n\n"
+        }
+      ],
+      "id": "619d3eff-a732-4932-a0bf-4e0da4621c33",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "OS/ubuntu/ubuntu高级复制.md"
+        }
+      ],
+      "reasoningLevel": "off"
+    }
+  ],
+  "createdAt": 1771141355337,
+  "updatedAt": 1771141355337,
+  "schemaVersion": 1,
+  "overrides": null,
+  "reasoningLevel": "off"
+}

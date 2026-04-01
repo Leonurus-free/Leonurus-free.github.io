@@ -1,0 +1,25 @@
+# Obsidian 配置文件
+.obsidian/workspace.json
+.obsidian/plugins/terminal/data.json
+
+# Claude 相关配置及日志
+.claude/
+.playwright-mcp/
+.smtcmp_json_db/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.bak
+
+# IDE 相关
+.vscode/
+.idea/
+
+# 笔记中可能出现的临时文件
+未命名.base
+未命名.canvas
+Untitled.md

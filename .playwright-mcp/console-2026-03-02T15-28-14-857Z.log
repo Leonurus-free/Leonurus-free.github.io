@@ -1,0 +1,73 @@
+[     220ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://zhuanlan.zhihu.com/p/2000867285422866885:0
+[   11585ms] [ERROR] Access to XMLHttpRequest at 'https://118.89.204.198/resolv?host=www.zhihu.com&os_type=web' from origin 'https://www.zhihu.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.zhihu.com/signin:0
+[   11586ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://118.89.204.198/resolv?host=www.zhihu.com&os_type=web:0
+[   11900ms] [ERROR] 加载WebView模块失败: TypeError: r is not a function
+    at Object.RCqe (https://static.zhihu.com/amadeus-rn/web/shared-65f38b9024991d61.d44fbba016d365e9.js:1:1202)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at Module.arme (https://static.zhihu.com/amadeus-rn/web/shared-65f38b9024991d61.d44fbba016d365e9.js:1:1049)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at 0Qfx (https://static.zhihu.com/amadeus-rn/web/shared-65f38b9024991d61.d44fbba016d365e9.js:1:3164)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at ok/i (https://static.zhihu.com/amadeus-rn/web/shared-65f38b9024991d61.d44fbba016d365e9.js:1:8872)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at Module.RcoR (https://static.zhihu.com/amadeus-rn/web/shared-65f38b9024991d61.d44fbba016d365e9.js:1:18808)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at Module.zPWS (https://static.zhihu.com/amadeus-rn/web/shared-65f38b9024991d61.d44fbba016d365e9.js:1:55206)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at Module.TrWo (https://static.zhihu.com/amadeus-rn/web/shared-5c7116661fa9efb0.662f48b6f13abe32.js:1:125178)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at Module.VA61 (https://static.zhihu.com/amadeus-rn/web/shared-5c7116661fa9efb0.662f48b6f13abe32.js:1:99520)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at Module.gdiQ (https://static.zhihu.com/amadeus-rn/web/shared-5c7116661fa9efb0.662f48b6f13abe32.js:1:100315)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at 5DFK (https://static.zhihu.com/amadeus-rn/web/shared-443d90435bc51ca0.c5a241b9242da610.js:1:35116)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at Module.IQ9y (https://static.zhihu.com/amadeus-rn/web/pages_ZhidaPage_webPages_AIPanel_index_tsx.7928c7d3708fe3af.js:1:445)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at https://www.zhihu.com/appview/rn/ModuleFederation.js:1:13839
+    at https://static.zhihu.com/heifetz/lib-fae4f1f9.app.8210fbad01cca9b08efe.js:1:4830
+    at ed (https://static.zhihu.com/heifetz/6748.app.ea74bdc60dc14999fe4d.js:84:358430)
+    at Object.next (https://static.zhihu.com/heifetz/6748.app.ea74bdc60dc14999fe4d.js:84:357636)
+    at ec (https://static.zhihu.com/heifetz/6748.app.ea74bdc60dc14999fe4d.js:84:91830)
+    at eh (https://static.zhihu.com/heifetz/6748.app.ea74bdc60dc14999fe4d.js:84:92051) @ https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:0
+[   18929ms] [ERROR] Mixed Content: The page at 'https://www.zhihu.com/signin' was loaded over HTTPS, but requested an insecure resource 'http://local.adspower.net:50325/'. This request has been blocked; the content must be served over HTTPS. @ https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:0
+[   21038ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:54345/:0
+[   22909ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://zhihu-web-analytics.zhihu.com/api/v3inv2/za/logs/batch:0
+[   22909ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://zhihu-web-analytics.zhihu.com/api/v2/za/logs/batch:0
+[   22909ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://zhihu-web-analytics.zhihu.com/api/v3inv2/za/logs/batch:0
+[   22910ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://zhihu-web-analytics.zhihu.com/api/v2/za/logs/batch:0
+[   22922ms] TypeError: Failed to fetch
+    at https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:1:28507
+    at d (https://unpkg.zhimg.com/za-js-sdk@5.6.0/dist/zap.js:1:358437)
+    at https://unpkg.zhimg.com/za-js-sdk@5.6.0/dist/zap.js:1:358643
+    at https://unpkg.zhimg.com/za-js-sdk@5.6.0/dist/zap.js:1:336116
+    at o.onmessage (https://unpkg.zhimg.com/za-js-sdk@5.6.0/dist/zap.js:1:335741)
+[   22923ms] TypeError: Failed to fetch
+    at https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:1:28507
+    at d (https://unpkg.zhimg.com/za-js-sdk@5.6.0/dist/zap.js:1:358437)
+    at https://unpkg.zhimg.com/za-js-sdk@5.6.0/dist/zap.js:1:358643
+    at https://unpkg.zhimg.com/za-js-sdk@5.6.0/dist/zap.js:1:336116
+    at o.onmessage (https://unpkg.zhimg.com/za-js-sdk@5.6.0/dist/zap.js:1:335741)
+[   22923ms] TypeError: Failed to fetch
+    at https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:1:28507
+    at d (https://unpkg.zhimg.com/za-js-sdk@5.6.0/dist/zap.js:1:358437)
+    at https://unpkg.zhimg.com/za-js-sdk@5.6.0/dist/zap.js:1:358643
+    at https://unpkg.zhimg.com/za-js-sdk@5.6.0/dist/zap.js:1:336116
+    at o.onmessage (https://unpkg.zhimg.com/za-js-sdk@5.6.0/dist/zap.js:1:335741)
+[   22924ms] TypeError: Failed to fetch
+    at https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:1:28507
+    at d (https://unpkg.zhimg.com/za-js-sdk@5.6.0/dist/zap.js:1:358437)
+    at https://unpkg.zhimg.com/za-js-sdk@5.6.0/dist/zap.js:1:358643
+    at https://unpkg.zhimg.com/za-js-sdk@5.6.0/dist/zap.js:1:336116
+    at o.onmessage (https://unpkg.zhimg.com/za-js-sdk@5.6.0/dist/zap.js:1:335741)
+[   23069ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:50213/status:0
+[   23725ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://hm.baidu.com/hm.js?98beee57fd2ef70ccdd5ca52b9740c49:0
+[   25106ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:40000/:0
+[   27130ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://127.0.0.1:35000/:0
+[   46204ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://zhihu-web-analytics.zhihu.com/api/v2/za/logs/batch:0
+[   46206ms] TypeError: Failed to fetch
+    at https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:1:28507
+    at d (https://unpkg.zhimg.com/za-js-sdk@5.6.0/dist/zap.js:1:358437)
+    at https://unpkg.zhimg.com/za-js-sdk@5.6.0/dist/zap.js:1:358643
+    at https://unpkg.zhimg.com/za-js-sdk@5.6.0/dist/zap.js:1:336116
+    at o.onmessage (https://unpkg.zhimg.com/za-js-sdk@5.6.0/dist/zap.js:1:335741)

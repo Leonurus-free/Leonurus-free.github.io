@@ -1,0 +1,6 @@
+[    3280ms] [ERROR] Refused to frame 'https://a.claude.ai/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors https://claude.ai https://*.claude.ai https://anthropic.com https://*.anthropic.com https://*.ant.dev".
+ @ :0
+[   10462ms] [WARNING] [Intercom] The App ID in your code snippet has not been set. Set it to your App ID found in settings to complete installation: https://app.intercom.com/a/apps/_/settings/web @ https://js.intercomcdn.com/frame-modern.f1f5ff3e.js:0
+[   24443ms] [ERROR] Refused to frame 'https://a.claude.ai/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors https://claude.ai https://*.claude.ai https://anthropic.com https://*.anthropic.com https://*.ant.dev".
+ @ :0
+[   26747ms] [WARNING] [Intercom] The App ID in your code snippet has not been set. Set it to your App ID found in settings to complete installation: https://app.intercom.com/a/apps/_/settings/web @ https://js.intercomcdn.com/frame-modern.f1f5ff3e.js:0
