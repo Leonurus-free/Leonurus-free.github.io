@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "test"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "test 的大纲"
             }
           }
         ],
@@ -171,8 +171,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "45d0ba622d1991cd",
+  "active": "898c8d482efda1a7",
   "lastOpenFiles": [
+    "OS/使用watch实时监测GPU使用情况.md",
+    "OS/ubuntu/ubuntu高级复制.md",
+    "README.md",
     "generate_readme.py",
     "generate_readme.py.tmp.17344.1775008041265",
     "test.md",
@@ -181,7 +184,6 @@
     "Git/02.Git帮助手册.md",
     "Git/Git操作.md",
     "OS/ubuntu/压缩解压.md",
-    "OS/ubuntu/ubuntu高级复制.md",
     "相关命令.md",
     "docker/Kasm虚拟化性能测试说明.md",
     "OS/ubuntu/Ubuntu22.04LTS中安装Docker，并支持显卡.md",
@@ -209,7 +211,6 @@
     "anaconda/使用conda pack进行环境迁移/a9f6249dfd844536bbf49f7c29f1b84d.png",
     "anaconda/使用conda pack进行环境迁移/5c4739c396d241ab85fb153158080602.png",
     "anaconda/使用conda pack进行环境迁移",
-    "anaconda/使用conda pack进行环境迁移.md",
     "anaconda",
     "Untitled Folder",
     "LLMs/LLM中的Attention实现及优化/640-1736078158402-15.webp",
@@ -217,7 +218,6 @@
     "LLMs/LLM中的Attention实现及优化/640-1736078156442-12.webp",
     "LLMs/LLM中的Attention实现及优化/640-1736078156442-12-1736078156442-13",
     "LLMs/LLM中的Attention实现及优化/640-1736078128533-9.webp",
-    "LLMs/LLM中的Attention实现及优化/640-1736078128533-9-1736078128533-10",
     "LLMs/LLM中的Attention实现及优化/640-1736078117907-6.webp",
     "未命名.canvas"
   ]
